@@ -1,2 +1,1 @@
-# singlepageappversion
-my info
+# singlepageappversionmy name is chandra sekhar
